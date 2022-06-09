@@ -18,8 +18,7 @@ Pré-requisitos: Java 11, Eclipse
 
 ```bash
 # clonar repositório
-git clone https://github.com/Bakemono7K/Processamento-de-contratos-com-taxa-de-juros
-
+git clone https://github.com/Bakemono7K/Requisicoes-web-simples
 # executar o projeto no eclipse
 ```
 
