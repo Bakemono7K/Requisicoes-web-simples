@@ -12,6 +12,7 @@ Aplicação web, com calcúlos simples, calcúlo de IMC e requisições get e po
 - Git
 - Springboot
 - Maven
+- MySQL
 # Como executar o projeto
 
 Pré-requisitos: Java 11, Eclipse
